@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div style="background-color:white">
+    <header class="text-center">
+        <h1 class="display-4">Razer Currency Convertor</h1>
+        <h2>By @Model.FullName</h2>
+    </header>
+    <br/><br/>
+</div>
+<form method="post" class="mx-auto" style="width:200px">
+    <p  class="col-sm-2">
+        <label for="name">Name</label>
+        <input type="text" required="true" placeholder ="Your full name" asp-for="FullName">
+    </p>
+    <p class="col-sm-4">
+        <label for="email">Email</label>
+        <input type="email" required="true" name="email">
+    </p>
+    <p class="col-sm-2">
+        <button type="submit" class="btn btn-primary">
+                Register
+            </button>
+    </p>
+</form>
+
+ <form method="post" class="text-left">
+    <div class="form-group">
+        <label for="Name" class="col-sm-2" control-label">Name</label>
+       <div class="col-sm-4">
+        <input type="text" class="form-control" id="Name">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="Email" class="col-sm-2">Email</label>
+        <div class="col-col-4">
+        <input type="email" class="form-control" id="exampleInputemail1">
+    </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-4">
+    <button type="submit" class="btn btn-primary">Register</button>
+    </div>
+   </div>
+</form>

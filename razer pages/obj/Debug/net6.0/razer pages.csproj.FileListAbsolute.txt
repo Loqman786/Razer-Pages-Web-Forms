@@ -1,0 +1,52 @@
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\appsettings.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.staticwebassets.runtime.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.exe
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.deps.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\bin\Debug\net6.0\razer pages.pdb
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.RazorAssemblyInfo.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.RazorAssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\scopedcss\bundle\razer pages.styles.css
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\scopedcss\projectbundle\razer pages.bundle.scp.css
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\refint\razer pages.dll
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.pdb
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\razer pages.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\Software engineering year 2\razer pages\razer pages\obj\Debug\net6.0\ref\razer pages.dll
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\appsettings.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.staticwebassets.runtime.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.exe
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.deps.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.dll
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\bin\Debug\net6.0\razer pages.pdb
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.RazorAssemblyInfo.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.RazorAssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\scopedcss\bundle\razer pages.styles.css
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\scopedcss\projectbundle\razer pages.bundle.scp.css
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.dll
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\refint\razer pages.dll
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.pdb
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\razer pages.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\github repositories\Razer-Pages-Web-Forms\razer pages\obj\Debug\net6.0\ref\razer pages.dll
